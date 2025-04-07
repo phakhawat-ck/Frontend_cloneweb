@@ -1,9 +1,9 @@
 
-![Project Screenshot](Smartmag/img-p/S.png)
+![Project Screenshot](/Smartmag/img-p/S.png)
 
 # Website Clone - SmartMag
 
-🔗 **Live Demo**:([https://your-demo-link.com](https://phakhawat-ck.github.io/phakhawat.github.io/Project%20Clone%20Web/Smartmag/))
+🔗 **Live Demo**:([Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Project%20Clone%20Web/Smartmag/))
 
 ## Overview
 This project is a clone of the website [SmartMag](https://smartmag-pbt.blogspot.com/?m=1). The purpose of this project is to practice layout design skills and learn how to create a responsive website.
