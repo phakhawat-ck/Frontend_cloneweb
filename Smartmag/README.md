@@ -12,7 +12,7 @@ This project is a clone of the website [SmartMag](https://smartmag-pbt.blogspot.
 In this project, I focused on replicating the layout and functionality of the SmartMag website. It is intended purely for practicing layout techniques and responsive design, using HTML and CSS only.
 
 ## Contributions
-I wrote 95% of the code myself. For the remaining 5%, I used AI to assist in solving certain problems and refining the code.
+I developed 95% of the code by myself. For the remaining 5%, I utilized AI tools (such as ChatGPT) to assist with debugging and improving code quality.
 
 ## Challenges and Learning
 There are many mistakes and challenges throughout this project as I am still learning and improving my web development skills. I plan to continue learning and refining my techniques for writing cleaner and more efficient code.
