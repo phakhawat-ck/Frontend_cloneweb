@@ -2,7 +2,7 @@
 # Website Clone - SmartMag
 
 
-🔗 **Live Demo**:([Live Demo](https://phakhawat-ck.github.io/phakhawat.github.io/Project%20Clone%20Web/Smartmag/))
+🔗 **Live Demo**:([Live Demo](https://phakhawat-ck.github.io/Frontend_cloneweb/Smartmag/))
 
 
 ## Overview
