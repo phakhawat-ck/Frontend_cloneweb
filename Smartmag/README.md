@@ -2,7 +2,7 @@
 # Website Clone - SmartMag
 
 
-🔗 **Live Demo**:([Live Demo](https://sm-phakhawat.vercel.app/)
+🔗 **Live Demo**:([Live Demo](https://sm-phakhawat.vercel.app/))
 
 
 ## Overview
